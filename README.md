@@ -1,7 +1,16 @@
 # :hospital: MedMe
 
+This app is the work of 4 developers: 
+* <strong>[Dirk Wiggins](https://github.com/kridlet)</strong>
+* <strong>[Matt McCarthy](https://github.com/mccartmz)</strong>
+* <strong>[Joe McCreesh](https://github.com/jmccreesh)</strong>
+* <strong>[Matthew Wright](https://github.com/Mjohnwright)</strong>
+
 ### Link to App
 * <strong>[MedMe](https://kridlet.github.io/MedMe/)</strong>
+
+### Screenshot
+![Full Size](assets/images/medme.png)
 
 ### Application Concept:
 Taking medications is serious business.  It is critical to take prescribed medicine regularly and on time.  If the wrong dose is taken, or the recommended dose is taken at the wrong time; health problems and adverse reactions can result.  This problem can further compound itself when taking multiple medications.  
@@ -33,17 +42,21 @@ Perhaps the most challenging part was coordinating everyone’s individual contr
 
 ### Technologies:
 
-* Bootstrap
-* Google Map API
-* NIH (National Institute for Health) API for the drug Interactions and auto-completer
-* Federal Drug Administration (FDA) API for drug side effects
-* Firebase for data storage and authentication
-* Twilio for reminder text messages
+*	Bootstrap
+*	Google Map API
+*	NIH (National Institute for Health) API for the drug Interactions and auto-completer
+*	Federal Drug Administration (FDA) API for drug side effects
+*	Firebase for data storage and authentication
+*	Twilio for reminder text messages
 
 ### Direction for Future Development:
 
-* Continue to debug existing code.  This includes code comments.  Currently our html, css and js are jumbled about.
-* Create an information share forum so people can connect with others who are taking the same medications.
-* Include a health blog with regular contributions from thought leaders in the field of pharmacology.
-* Create a delivery service for prescriptions.
-* Compare pharmacy prices and allow users to rate pharmacies and leave written reviews.
+*	Continue to debug existing code.  This includes code comments.  Currently our html, css and js are jumbled about.
+*	Create an information share forum so people can connect with others who are taking the same medications.
+*	Include a health blog with regular contributions from thought leaders in the field of pharmacology.
+*	Create a delivery service for prescriptions.
+*	Compare pharmacy prices and allow users to rate pharmacies and leave written reviews.
+
+
+
+
